@@ -1,0 +1,9 @@
+timeout 0
+default 0
+hidden_timeout=1
+hidden_timeout_quiet=true
+ 
+ 
+title 25OS
+kernel /boot/25KERNEL.bin
+module /boot/initrd.img
