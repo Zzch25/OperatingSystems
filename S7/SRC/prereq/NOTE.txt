@@ -1,0 +1,3 @@
+For Future Research...
+
+Malloc examples for higher efficiency. Works of Durand and Lea
